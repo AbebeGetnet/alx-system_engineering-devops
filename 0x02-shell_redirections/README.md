@@ -1,1 +1,1 @@
-Commands to excute different activities in bash project
+Hello, world script
